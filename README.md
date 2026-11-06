@@ -1,2 +1,3 @@
 # RUPO2611
-narkosha
+print('helo world')
+Danila kolmogorov Loshara
